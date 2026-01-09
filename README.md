@@ -8,6 +8,8 @@ A simple greeting library.
 npm install ngarod
 ```
 
+## Usage
+
 ```bash
 const greet = useNgarod('hi');
 ```
