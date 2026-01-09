@@ -7,3 +7,7 @@ A simple greeting library.
 ```bash
 npm install ngarod
 ```
+
+```bash
+const greet = useNgarod('hi');
+```
